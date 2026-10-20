@@ -1,0 +1,12 @@
+Testing Checklist
+Before submitting, test the following situations:
+
+ The program reads all valid records.
+ Blank and invalid lines do not crash the program.
+ A missing grades.txt file produces a friendly error message.
+ Grades below 0 or above 100 are rejected.
+ The average, passed count, and failed count are correct.
+ The highest and lowest students are correct.
+ Search works with uppercase, lowercase, and partial names.
+ An invalid menu choice returns to the menu.
+ The report is successfully saved and can be opened.
